@@ -52,7 +52,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "1.0.3"
+            "1.0.3": "1.0.3-dev"
         },
         "laravel": {
             "aliases": {
