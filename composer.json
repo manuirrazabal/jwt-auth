@@ -8,17 +8,14 @@
         "jwt",
         "laravel"
     ],
-    "homepage": "https://github.com/tymondesigns/jwt-auth",
+    "homepage": "https://github.com/manuirrazabal/jwt-auth",
     "support": {
-        "issues": "https://github.com/tymondesigns/jwt-auth/issues",
-        "source": "https://github.com/tymondesigns/jwt-auth"
+        "source": "https://github.com/manuirrazabal/jwt-auth"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Sean Tymon",
-            "email": "tymon148@gmail.com",
-            "homepage": "https://tymon.xyz",
+            "name": "Manuel",
             "role": "Developer"
         }
     ],
@@ -28,7 +25,7 @@
         "illuminate/contracts": "^5.2|^6|^7|^8",
         "illuminate/http": "^5.2|^6|^7|^8",
         "illuminate/support": "^5.2|^6|^7|^8",
-        "lcobucci/jwt": "~3.4",
+        "lcobucci/jwt": "^4.0",
         "namshi/jose": "^7.0",
         "nesbot/carbon": "^1.0|^2.0"
     },
@@ -52,7 +49,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "1.0-dev"
+            "dev-master": "1.0.4-dev"
         },
         "laravel": {
             "aliases": {
